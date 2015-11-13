@@ -1,0 +1,23 @@
+name: RengieMendoza
+favicon: null
+layout_spectrum: 0.16165588214062154
+typography_spectrum: 0.44590425956994295
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.725112964399159
+  lightness: 0.1944160230923444
+  saturation: 0.06954264407977462
+  rhythmicContrast: 0.44540930329822004
+purpose: []
