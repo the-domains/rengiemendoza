@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[RengieMendoza]]></title>
         <description><![CDATA[RengieMendoza]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rengiemendoza/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Nov 2015 10:15:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 18:54:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rengiemendoza/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>That's the amount of time we save small business every month on average.  By using Automation and Integration, we are able take daunting administrative tasks away from you or your staff.</p>]]></description>
+            <link>https://thegrid.ai/rengiemendoza/thats-the-amount-of-time-we-save-small-business-every-month/index.html</link>
+            <guid isPermaLink="false">316015bd-7fdc-4edd-bed1-3d93d77236f0</guid>
+            <pubDate>Fri, 25 Mar 2016 18:54:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello World]]></title>
             <description><![CDATA[<h1>Hello World</h1>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <link>https://thegrid.ai/rengiemendoza/hello-world/index.html</link>
             <guid isPermaLink="false">b2f23efc-1c88-433e-87ad-510f6ec12e91</guid>
             <pubDate>Fri, 13 Nov 2015 03:01:33 GMT</pubDate>
         </item>
