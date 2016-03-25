@@ -4,7 +4,7 @@
         <description><![CDATA[RengieMendoza]]></description>
         <link>https://thegrid.ai/rengiemendoza/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 18:54:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 18:55:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rengiemendoza/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,10 +15,10 @@
         </item>
         <item>
             <title><![CDATA[Hello World]]></title>
-            <description><![CDATA[<h1>Hello World</h1>]]></description>
+            <description><![CDATA[<article><h1>Hello World</h1><p>Testing out this new AI platform...</p></article>]]></description>
             <link>https://thegrid.ai/rengiemendoza/hello-world/index.html</link>
             <guid isPermaLink="false">b2f23efc-1c88-433e-87ad-510f6ec12e91</guid>
-            <pubDate>Fri, 13 Nov 2015 03:01:33 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2016 18:55:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
